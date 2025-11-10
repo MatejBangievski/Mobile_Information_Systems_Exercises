@@ -15,8 +15,8 @@ A simple Flutter mobile application that displays a schedule of exams, allowing 
 
 ## Screenshots
 
-![Home Screen](./resources/Screenshot_20251110_230637.png)
-![Exam Details](./resources/Screenshot_20251110_230726.png)
+<img src="./resources/Screenshot_20251110_230637.png" width="50%">
+<img src="./resources/Screenshot_20251110_230726.png" width="50%">
 
 ## Technologies
 
